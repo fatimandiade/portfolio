@@ -26,23 +26,23 @@ Formation en programmation, algorithmique, structures de données, mathématique
 
 ## Projets académiques
 
-### [Jeu agricole — Java](https://github.com/fatima-ND2206/jeu-agricole-java)
+### [Jeu agricole — Java](https://github.com/fatimandiade/jeu-agricole-java)
 
-Projet de groupe portant sur le développement d’un jeu agricole, avec travail sur la classe Climat et la documentation relative de tout le jeu portant sur les  plantes, les mineraux , les sols et les climats.
+Projet de groupe portant sur le développement d’un jeu agricole, avec travail sur la classe Climat et la documentation relative aux plantes, aux sols et aux climats.
 
-### [Bases de données — SQL](https://github.com/fatima-ND2206/Projet-sql)
+### [Projet SQL](https://github.com/fatimandiade/Projet-sql)
 
 Travaux universitaires autour de la conception et de l’interrogation de bases de données à travers des requêtes SQL, des jointures et des regroupements.
 
-### [Structures de données — C++](https://github.com/fatima-ND2206/Algorithme-cpp)
+### [Algorithmes C++](https://github.com/fatimandiade/Algorithme-cpp)
 
-Implémentation de structures de données et d’algorithmes, notamment les arbres ABR et AVL, leurs parcours et leurs rééquilibrages.
+Implémentation de structures de données, notamment les arbres ABR et AVL, leurs parcours et leurs rééquilibrages.
 
-### [Outils interactifs — TypeScript, HTML / CSS](https://github.com/fatima-ND2206/Outils-interactifs-)
+### [Outils interactifs — TypeScript](https://github.com/fatimandiade/Outils-interactifs-)
 
 Développement d’une calculatrice interactive et d’outils de visualisation de structures de données et d’algorithmes de tri.
 
-### [Analyse de données — Python](https://github.com/fatima-ND2206/Analyse-de-donnees-python) 
+### [Analyse de données — Python](https://github.com/fatimandiade/Analyse-de-donnees-python) *(En cours)*
 
 Projet d’analyse et de visualisation de données à l’aide de Python.
 
