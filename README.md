@@ -28,7 +28,7 @@ Formation en programmation, algorithmique, structures de données, mathématique
 
 ### [Jeu agricole — Java](https://github.com/fatima-ND2206/jeu-agricole-java)
 
-Projet de groupe portant sur le développement d’un jeu agricole, avec travail sur la classe Climat et la documentation relative aux plantes, aux sols et aux climats.
+Projet de groupe portant sur le développement d’un jeu agricole, avec travail sur la classe Climat et la documentation relative de tout le jeu portant sur les  plantes, les mineraux , les sols et les climats.
 
 ### [Bases de données — SQL](https://github.com/fatima-ND2206/Projet-sql)
 
@@ -42,7 +42,7 @@ Implémentation de structures de données et d’algorithmes, notamment les arbr
 
 Développement d’une calculatrice interactive et d’outils de visualisation de structures de données et d’algorithmes de tri.
 
-### [Analyse de données — Python](https://github.com/fatima-ND2206/Analyse-de-donnees-python) *(En cours)*
+### [Analyse de données — Python](https://github.com/fatima-ND2206/Analyse-de-donnees-python) 
 
 Projet d’analyse et de visualisation de données à l’aide de Python.
 
