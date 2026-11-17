@@ -46,6 +46,15 @@ Développement d’une calculatrice interactive et d’outils de visualisation d
 
 Projet d’analyse et de visualisation de données à l’aide de Python.
 
+### [ Analyse des ventes et du comportement des clients d'une boutique en ligne ] (https://github.com/fatimandiade/Analyse-de-donnees-python)
+
+Technologies : Python, Pandas, NumPy, SQL, Matplotlib, Seaborn
+
+Analyse de données transactionnelles réelles visant à étudier les performances commerciales, l'évolution des ventes et les comportements d'achat des clients
+
+Voir le projet
+
+Statut : En cours
 ## Objectifs
 
 Poursuivre mes études en informatique, notamment dans les domaines de la cybersécurité, de la Data Science ou de l’intelligence artificielle, et approfondir mes compétences à travers des projets concrets.
