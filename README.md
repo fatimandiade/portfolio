@@ -18,11 +18,11 @@ Formation en programmation, algorithmique, structures de données, mathématique
 
 ## Compétences
 
-- **Programmation :** Java, C++, OCaml, TypeScript, HTML / CSS
+- **Programmation :** Java, C++, OCaml, TypeScript, HTML / CSS 
 - **Algorithmique :** structures de données, arbres ABR et AVL, complexité
 - **Bases de données :** SQL, requêtes, jointures et regroupements
-- **Mathématiques :** algèbre linéaire, probabilités, optimisation
-- **Outils :** Git, Unix/Linux, UML
+- **Mathématiques :** algèbre linéaire, probabilités, optimisation 
+- **Outils :** Git, Unix/Linux, UML, power BI
 
 ## Projets académiques
 
