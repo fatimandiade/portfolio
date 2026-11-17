@@ -46,7 +46,7 @@ Développement d’une calculatrice interactive et d’outils de visualisation d
 
 Projet d’analyse et de visualisation de données à l’aide de Python.
 
-### [ Analyse des ventes et du comportement des clients d'une boutique en ligne ] (https://github.com/fatimandiade/Analyse-de-donnees-python)
+### [ Analyse des ventes et du comportement des clients d'une boutique en ligne ](https://github.com/fatimandiade/Analyse-de-donnees-python)
 
 Technologies : Python, Pandas, NumPy, SQL, Matplotlib, Seaborn
 
