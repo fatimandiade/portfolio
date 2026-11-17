@@ -28,8 +28,12 @@ Formation en programmation, algorithmique, structures de données, mathématique
 
 ### [Jeu agricole — Java](https://github.com/fatimandiade/jeu-agricole-java)
 
-Projet de groupe portant sur le développement d’un jeu agricole, avec travail sur la classe Climat et la documentation relative aux plantes, aux sols et aux climats.
-
+Participation à la conception d'un jeu de gestion agricole à travers :
+- Des recherches documentaires sur les plantes, les sols, les minéraux et leurs caractéristiques.
+- La rédaction de documents destinés à alimenter la conception du jeu.
+- La participation aux réflexions sur la structure et le fonctionnement des différentes classes.
+- L'entraide entre membres du groupe pour faciliter l'avancement des tâches et respecter les délais.
+  
 ### [Projet SQL](https://github.com/fatimandiade/Projet-sql)
 
 Travaux universitaires autour de la conception et de l’interrogation de bases de données à travers des requêtes SQL, des jointures et des regroupements.
