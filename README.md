@@ -38,7 +38,7 @@ Travaux universitaires autour de la conception et de l’interrogation de bases 
 
 Implémentation de structures de données, notamment les arbres ABR et AVL, leurs parcours et leurs rééquilibrages.
 
-### [Outils interactifs — TypeScript](https://github.com/fatimandiade/Outils-interactifs-)
+### [Outils interactifs — TypeScript](https://github.com/fatimandiade/Outils-interactifs)
 
 Développement d’une calculatrice interactive et d’outils de visualisation de structures de données et d’algorithmes de tri.
 
